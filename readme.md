@@ -1,4 +1,4 @@
-# Film Finder
+# Film Finder 🍟
 
 CodeCademy project for movie recommendation using tmdb.
 
